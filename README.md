@@ -47,4 +47,4 @@ This document provides an overview of multiple Python programs contained within 
 - These programs were created by Zayouta Bilal.
 
 ## License:
-- These programs are licensed under the  License. See the LICENSE file for details.
+- These programs are licensed under the  unlicense. See the LICENSE file for details.
